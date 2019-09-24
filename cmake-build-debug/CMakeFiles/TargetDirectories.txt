@@ -1,0 +1,3 @@
+/Users/kingjames/Desktop/oopproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kingjames/Desktop/oopproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kingjames/Desktop/oopproject/cmake-build-debug/CMakeFiles/oopproject.dir

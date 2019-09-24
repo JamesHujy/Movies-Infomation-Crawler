@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="oopproject"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kingjames/Desktop/oopproject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kingjames/Desktop/oopproject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kingjames/Desktop/oopproject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oopproject">
+				<Option output="/Users/kingjames/Desktop/oopproject/cmake-build-debug/oopproject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kingjames/Desktop/oopproject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 oopproject"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oopproject/fast">
+				<Option output="/Users/kingjames/Desktop/oopproject/cmake-build-debug/oopproject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kingjames/Desktop/oopproject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 oopproject/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kingjames/Desktop/oopproject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/AbstractFactory.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/AbstractFactory.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Actor.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Actor.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/BoxOffice.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/BoxOffice.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Control.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Control.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/DataBase.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/DataBase.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Director.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Director.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/DoubanControl.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/DoubanControl.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Genre.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Genre.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/IMDBControl.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/IMDBControl.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/IMDBSpider.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/IMDBSpider.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Movie.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Movie.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/MovieFactory.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/MovieFactory.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Parser.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Parser.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Rate.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Rate.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Release_Date.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Release_Date.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Review.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Review.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Runtime.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Runtime.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Screenwriter.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/Screenwriter.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TVOpera.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TVOpera.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TVOperaFactory.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TVOperaFactory.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TomatoControl.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/TomatoControl.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseData.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseData.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseObject.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseObject.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseSpider.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/baseSpider.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/dataFactory.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/dataFactory.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/doubanSpider.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/doubanSpider.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/main.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/rottentomatoSpider.cpp">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/rottentomatoSpider.h">
+			<Option target="oopproject"/>
+		</Unit>
+		<Unit filename="/Users/kingjames/Desktop/oopproject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
